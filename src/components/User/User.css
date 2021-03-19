@@ -1,0 +1,8 @@
+.user-container{
+    border: 1px solid gray;
+    margin: 30px;
+    padding: 20px;
+    width:500px;
+    background-color:#ece2e4;
+    border-radius:25px;
+}
